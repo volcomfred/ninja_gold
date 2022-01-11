@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container {
+    margin: 0 auto;
+    width: 970px;
+    background-color: aliceblue;
+}
+.location {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border: 3px solid black;
+}
+#activities {
+    border: 3px solid black;
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
